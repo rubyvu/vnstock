@@ -1,8 +1,10 @@
 source 'https://rubygems.org'
 
+gem 'devise', "~> 2.2.4"
 gem 'haml-rails'
 gem 'jquery-rails'
 gem 'mysql2'
+gem 'nokogiri'
 gem 'rails', '3.2.13'
 
 group :assets do
